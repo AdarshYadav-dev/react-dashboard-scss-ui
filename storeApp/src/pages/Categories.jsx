@@ -1,5 +1,5 @@
 import { useEffect, useState } from "react";
-import "../styles/categories.css";
+import "../styles/categories.scss";
 
 function Categories() {
   const [categories, setCategories] = useState([]);
