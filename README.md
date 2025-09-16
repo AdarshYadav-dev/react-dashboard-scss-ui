@@ -1,6 +1,6 @@
 # React Dashboard & UI Components with SCSS
 
-This repository contains the frontend UI components of a React-based dashboard application. The project is styled using **SCSS** (Sass) with a clean and responsive layout. It includes reusable components for dashboards, carts, categories, products, users, sidebar, and navbar.
+This repository contains the frontend UI components of a React-based dashboard application. The project is styled using **SCSS** (Sass) with a clean and responsive layout. It includes reusable components for dashboards, carts, categories, products, users, sidebar, and navbar..
 
 ## Features
 
